@@ -14,7 +14,7 @@ Generación de basura tipo PET y Aluminio, enfocado a la comunidad universitaria
   * Para la elaboración y desarrollo de la aplicación 
   
   ### Costos
-  Material | Costo | Tiempo
-  ---------| ----- | ------
-  Laptop   |20,000 | 24 hrs. 
-  Dispositivo móvil | 5,000 | 10 min
+  |Material | Costo | Tiempo
+  |---------:|:-----:| ------:
+  |Laptop   |20,000 | 24 hrs. 
+  |Dispositivo móvil | 5,000 | 10 min
